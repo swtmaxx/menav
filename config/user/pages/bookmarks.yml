@@ -1,0 +1,422 @@
+# 自动生成的书签配置文件
+# 由bookmark-processor.js生成于 2025-08-26T02:30:16.899Z
+# 若要更新，请将新的书签HTML文件放入bookmarks/目录
+# 此文件使用模块化配置格式，位于config/user/pages/目录下
+
+title: 我的书签
+subtitle: 从浏览器导入的书签收藏
+categories:
+  - name: 书签栏
+    icon: fas fa-folder
+    sites:
+      - name: 百度
+        url: https://www.baidu.com/
+        icon: fas fa-link
+        description: ""
+      - name: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+        url: https://www.bilibili.com/?spm_id_from=333.337.0.0
+        icon: fas fa-link
+        description: ""
+      - name: 主页 | Microsoft 365 Copilot
+        url: https://www.microsoft365.com/?auth=1&amp;home=1
+        icon: fas fa-link
+        description: ""
+      - name: Telegram
+        url: https://web.telegram.org/a/
+        icon: fab fa-telegram
+        description: ""
+      - name: • Discord | 好友
+        url: https://discord.com/channels/@me
+        icon: fab fa-discord
+        description: ""
+      - name: Home / X
+        url: https://x.com/home
+        icon: fas fa-link
+        description: ""
+      - name: GitHub
+        url: https://github.com/
+        icon: fab fa-github
+        description: ""
+      - name: 翻译
+        url: https://cn.bing.com/translator/
+        icon: fas fa-link
+        description: ""
+      - name: Google 翻译
+        url: https://translate.google.com/
+        icon: fab fa-google
+        description: ""
+      - name: 百度翻译
+        url: https://fanyi.baidu.com/mtpe-individual/multimodal?channel=pcTryButton
+        icon: fas fa-link
+        description: ""
+      - name: 中小学教材电子版
+        url: https://jc.pep.com.cn/?
+        icon: fas fa-link
+        description: ""
+      - name: 在线字数统计工具
+        url: https://www.mimitool.com/wordcount
+        icon: fas fa-link
+        description: ""
+  - name: 人机
+    icon: fas fa-folder
+    sites:
+      - name: ChatGPT
+        url: https://chatgpt.com/
+        icon: fas fa-link
+        description: ""
+      - name: ‎Google Gemini
+        url: https://gemini.google.com/
+        icon: fab fa-google
+        description: ""
+      - name: DeepSeek - 探索未至之境
+        url: https://chat.deepseek.com/
+        icon: fas fa-link
+        description: ""
+      - name: Kimi - 会推理解析，能深度思考的AI助手
+        url: https://www.kimi.com/
+        icon: fas fa-link
+        description: ""
+      - name: 豆包 - 字节跳动旗下 AI 智能助手
+        url: https://www.doubao.com/chat/
+        icon: fas fa-link
+        description: ""
+      - name: 通义
+        url: https://tongyi.aliyun.com/qianwen/
+        icon: fas fa-link
+        description: ""
+      - name: 文心一言
+        url: https://yiyan.baidu.com/
+        icon: fas fa-link
+        description: ""
+      - name: copilot
+        url: https://copilot.microsoft.com/
+        icon: fab fa-microsoft
+        description: ""
+      - name: SiliconCloud
+        url: https://cloud.siliconflow.cn/sft-d32kqchxqz/models
+        icon: fas fa-link
+        description: ""
+  - name: 云盘
+    icon: fas fa-folder
+    sites:
+      - name: 中国移动云盘-不限速免流量的云盘
+        url: https://yun.139.com/w/#/index
+        icon: fas fa-link
+        description: ""
+      - name: 天翼云盘 珍藏美好生活 家庭云|网盘|文件备份|资源分享
+        url: https://cloud.189.cn/web/main/file/folder/-11
+        icon: fas fa-link
+        description: ""
+      - name: 我的文件-小飞机网盘
+        url: https://www.feijipan.com/console/files/0
+        icon: fas fa-link
+        description: ""
+      - name: 我的文件-蓝奏云优享版
+        url: https://www.ilanzou.com/console/files/0
+        icon: fas fa-link
+        description: ""
+      - name: 蓝奏云-控制台
+        url: https://pc.woozooo.com/u
+        icon: fas fa-link
+        description: ""
+      - name: 123云盘
+        url: https://www.123pan.com/
+        icon: fas fa-link
+        description: ""
+      - name: OneDrive
+        url: https://onedrive.live.com/?id=root&amp;cid=27B9531BC2730407
+        icon: fas fa-link
+        description: ""
+      - name: 阿里云盘
+        url: https://www.alipan.com/drive/home
+        icon: fas fa-link
+        description: ""
+      - name: 百度网盘-全部文件
+        url: https://pan.baidu.com/disk/home?from=newversion&amp;stayAtHome=true#/all?path=%2F&amp;vmode=list
+        icon: fas fa-link
+        description: ""
+      - name: 夸克网盘
+        url: https://pan.quark.cn/list#/list/all
+        icon: fas fa-link
+        description: ""
+      - name: 文件_115生活(曾用名“115网盘”)_数字生活平台
+        url: https://115.com/?cid=0&amp;offset=0&amp;mode=wangpan
+        icon: fas fa-link
+        description: ""
+      - name: 全部文件 | PikPak 云盘
+        url: https://mypikpak.net/drive/all
+        icon: fas fa-link
+        description: ""
+      - name: 腾讯微云
+        url: https://www.weiyun.com/disk
+        icon: fas fa-link
+        description: ""
+      - name: 迅雷云盘
+        url: https://pan.xunlei.com/
+        icon: fas fa-link
+        description: ""
+      - name: 我的坚果云 - 坚果云 - 云盘|网盘|企业网盘|同步|备份|无限空间|免费网络硬盘|企业云盘
+        url: https://www.jianguoyun.com/#/
+        icon: fas fa-link
+        description: ""
+      - name: Home | AList文档
+        url: https://alistgo.com/zh/
+        icon: fas fa-link
+        description: ""
+      - name: Home | OpenList 文档
+        url: https://oplist.org/zh/
+        icon: fas fa-link
+        description: ""
+      - name: OpenList Token 获取工具
+        url: https://api.oplist.org/
+        icon: fas fa-link
+        description: ""
+  - name: 服务器
+    icon: fas fa-folder
+    sites:
+      - name: 用户中心 | 狐蒂云计算平台
+        url: https://www.szhdy.com/clientarea
+        icon: fas fa-link
+        description: ""
+      - name: 会员中心 - 浪浪云：全新升级，提供高性能、可靠稳定的云服务器解决方案
+        url: https://langlangy.cn/member/index
+        icon: fas fa-link
+        description: ""
+      - name: 用户中心 - 雾起数据
+        url: https://cloud.wuqq.fun/clientarea
+        icon: fas fa-link
+        description: ""
+      - name: Claw Cloud
+        url: https://us-west-1.run.claw.cloud/
+        icon: fas fa-link
+        description: ""
+      - name: 用户中心 | 炎火云
+        url: https://mingkj.com/clientarea
+        icon: fas fa-link
+        description: ""
+      - name: 总览 | 雨云
+        url: https://app.rainyun.com/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: 慈云数据
+        url: https://www.zovps.com/
+        icon: fas fa-link
+        description: ""
+      - name: 控制面板-独角鲸VPS
+        url: https://fuckip.me/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: 首页 - 636云
+        url: https://yun.636.su/
+        icon: fas fa-link
+        description: ""
+      - name: LINUX DO - 新的理想型社区
+        url: https://linux.do/
+        icon: fas fa-link
+        description: ""
+  - name: 域名
+    icon: fas fa-folder
+    sites:
+      - name: Cloudflare | Web Performance &amp; Security
+        url: https://dash.cloudflare.com/
+        icon: fas fa-link
+        description: ""
+      - name: 服务总览 - EdgeOne - 控制台
+        url: https://console.cloud.tencent.com/edgeone
+        icon: fas fa-link
+        description: ""
+      - name: 发射台 - Spaceship
+        url: https://www.spaceship.com/zh/launchpad/
+        icon: fas fa-link
+        description: ""
+      - name: Low-Cost Domain Names &amp; Hosting from $0.99 | NameSilo
+        url: https://www.namesilo.com/
+        icon: fas fa-link
+        description: ""
+      - name: DigitalPlat Domain Dashboard
+        url: https://dash.domain.digitalplat.org/panel/main?page=%2Fpanel%2Foverview
+        icon: fas fa-link
+        description: ""
+  - name: 机场
+    icon: fas fa-folder
+    sites:
+      - name: 赔钱机场
+        url: https://xn--mes358aby2apfg.com/#/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: 赔钱机场
+        url: https://xn--cp3a08l.com/#/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: 一分机场
+        url: https://xn--4gqx1hgtfdmt.com/#/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: 仪表盘 - 良心云
+        url: https://xn--9kqz23b19z.com/#/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: 69云
+        url: https://69yun69.com/user
+        icon: fas fa-link
+        description: ""
+      - name: 首页 — iKuuu VPN
+        url: https://ikuuu.one/user
+        icon: fas fa-link
+        description: ""
+      - name: v2ray
+        url: https://9.234456.xyz/abc.html?t=638818940723284135
+        icon: fas fa-link
+        description: ""
+      - name: cp.201116.xyz/86c50e3a-5b87-49dd-bd20-03c7f2735e40
+        url: https://cp.201116.xyz/86c50e3a-5b87-49dd-bd20-03c7f2735e40
+        icon: fas fa-link
+        description: ""
+      - name: wp.201116.xyz
+        url: https://wp.201116.xyz/
+        icon: fas fa-link
+        description: ""
+  - name: 我的世界
+    icon: fas fa-folder
+    sites:
+      - name: 中文 Minecraft Wiki
+        url: https://zh.minecraft.wiki/
+        icon: fas fa-link
+        description: ""
+      - name: Minecraft(我的世界)苦力怕论坛——我的世界中文论坛，我的世界手机版、我的世界论坛，我的世界基岩版，我的世界资源网
+        url: https://klpbbs.com/
+        icon: fas fa-link
+        description: ""
+      - name: MineBBS 我的世界中文论坛
+        url: https://www.minebbs.com/
+        icon: fas fa-link
+        description: ""
+      - name: MC百科|最大的Minecraft中文MOD百科
+        url: https://www.mcmod.cn/
+        icon: fas fa-link
+        description: ""
+      - name: Modrinth
+        url: https://modrinth.com/
+        icon: fas fa-link
+        description: ""
+      - name: MCAPPX 版本库
+        url: https://www.mcappx.com/
+        icon: fas fa-link
+        description: ""
+      - name: Chunk Base - Minecraft Apps, Mods and Tutorials
+        url: https://www.chunkbase.com/
+        icon: fas fa-link
+        description: ""
+      - name: Minecraft 渐变文字生成器
+        url: https://mcg.tuanzi.ink/
+        icon: fas fa-link
+        description: ""
+  - name: 服务器
+    icon: fas fa-folder
+    sites:
+      - name: 签到中心 - 海绵科创
+        url: https://www.yunmc.vip/addons?_plugin=points_mall&amp;_controller=index&amp;_action=index
+        icon: fas fa-link
+        description: ""
+      - name: 用户中心 - WeMC
+        url: https://wemc.cc/user/#/
+        icon: fas fa-link
+        description: ""
+      - name: 麦块联机 - 公益便捷的我的世界联机解决方案
+        url: https://minekuai.com/auth/login
+        icon: fas fa-link
+        description: ""
+      - name: 简幻欢 - Simpfun • V4
+        url: https://simpfun.cn/console
+        icon: fas fa-link
+        description: ""
+  - name: 内网穿透
+    icon: fas fa-folder
+    sites:
+      - name: 控制台 | ME Frp 5.0 管理面板
+        url: https://www.mefrp.com/dashboard/home
+        icon: fas fa-link
+        description: ""
+      - name: ChmlFrp | Panel v2 - 免费,高速,稳定,不限流量的端口映射工具。
+        url: https://panel.chmlfrp.cn/
+        icon: fas fa-link
+        description: ""
+  - name: 邮箱
+    icon: fas fa-folder
+    sites:
+      - name: QQ邮箱
+        url: https://wx.mail.qq.com/
+        icon: fas fa-link
+        description: ""
+      - name: 邮箱大师
+        url: https://dashi.163.com/apps/
+        icon: fas fa-link
+        description: ""
+      - name: Outlook
+        url: https://outlook.live.com/mail/0/
+        icon: fas fa-link
+        description: ""
+      - name: 网易免费邮箱 - 你的专业电子邮局
+        url: https://email.163.com/
+        icon: fas fa-link
+        description: ""
+  - name: 软件
+    icon: fas fa-folder
+    sites:
+      - name: 吾爱破解 - 52pojie.cn
+        url: https://www.52pojie.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 果核剥壳 - 互联网的净土
+        url: https://www.ghxi.com/
+        icon: fas fa-link
+        description: ""
+  - name: 工具
+    icon: fas fa-folder
+    sites:
+      - name: 互传网页版
+        url: http://as.vivo.com/
+        icon: fas fa-link
+        description: ""
+      - name: 首页 - 中国移动云手机
+        url: https://cp.139.com/
+        icon: fas fa-link
+        description: ""
+      - name: Click test 10 seconds | CPS Check
+        url: https://cps-check.com/
+        icon: fas fa-link
+        description: ""
+      - name: gametame
+        url: https://gametame.com/
+        icon: fas fa-link
+        description: ""
+      - name: 转换图片
+        url: https://imagestool.com/zh_CN/convert-images
+        icon: fas fa-link
+        description: ""
+      - name: 极简插件官网_Chrome插件下载_Chrome浏览器应用商店
+        url: https://chrome.zzzmh.cn/index
+        icon: fas fa-link
+        description: ""
+  - name: ip
+    icon: fas fa-folder
+    sites:
+      - name: 高精度IP地址归属地查询-IP风控值查询-原生IP查询-IP类型查询-家庭宽带IP查询-全球小鸡监控平台
+        url: https://ping0.cc/
+        icon: fas fa-link
+        description: ""
+      - name: IP Address Lookup / IPv4 / IPv6 - IP.SB
+        url: https://ip.sb/
+        icon: fas fa-link
+        description: ""
+      - name: ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想
+        url: https://www.itdog.cn/
+        icon: fas fa-link
+        description: ""
+  - name: 网站分析
+    icon: fas fa-folder
+    sites:
+      - name: Home - Bing Webmaster Tools
+        url: https://www.bing.com/webmasters
+        icon: fas fa-link
+        description: ""
