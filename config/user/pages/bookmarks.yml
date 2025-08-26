@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-26T07:58:27.820Z
+# 由bookmark-processor.js生成于 2025-08-26T08:20:12.349Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -435,4 +435,8 @@ categories:
       - name: google search console
         url: https://search.google.com/u/1/search-console?utm_source=about-page&amp;pli=1&amp;resource_id=sc-domain:swtmax.top
         icon: fab fa-google
+        description: ""
+      - name: 主页 - Clarity
+        url: https://clarity.microsoft.com/projects/view/t06142qizi/dashboard?date=Last%203%20days
+        icon: fab fa-microsoft
         description: ""
