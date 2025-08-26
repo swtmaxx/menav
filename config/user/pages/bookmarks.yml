@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-26T02:30:16.899Z
+# 由bookmark-processor.js生成于 2025-08-26T06:37:37.131Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -9,7 +9,7 @@ categories:
   - name: 书签栏
     icon: fas fa-folder
     sites:
-      - name: 百度
+      - name: "1"
         url: https://www.baidu.com/
         icon: fas fa-link
         description: ""
@@ -419,4 +419,8 @@ categories:
       - name: Home - Bing Webmaster Tools
         url: https://www.bing.com/webmasters
         icon: fas fa-link
+        description: ""
+      - name: menav/config at main · swtmaxx/menav
+        url: https://github.com/swtmaxx/menav/tree/main/config
+        icon: fab fa-github
         description: ""
