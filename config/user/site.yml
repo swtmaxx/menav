@@ -1,6 +1,6 @@
 title: 我的导航
 description: 个人网络导航站
-author: Your Name
+author: swtmax
 favicon: favicon.ico
 logo_text: 导航站
 
@@ -22,3 +22,5 @@ profile:
   title: Hello,
   subtitle: Welcome to My Navigation
   description: 导航菜单
+
+social:
