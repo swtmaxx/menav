@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-26T06:37:37.131Z
+# 由bookmark-processor.js生成于 2025-08-26T06:39:12.526Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -9,7 +9,7 @@ categories:
   - name: 书签栏
     icon: fas fa-folder
     sites:
-      - name: "1"
+      - name: 百度
         url: https://www.baidu.com/
         icon: fas fa-link
         description: ""
