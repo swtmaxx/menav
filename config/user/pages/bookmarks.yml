@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-26T06:39:12.526Z
+# 由bookmark-processor.js生成于 2025-08-26T07:25:56.034Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -9,6 +9,14 @@ categories:
   - name: 书签栏
     icon: fas fa-folder
     sites:
+      - name: 必应
+        url: https://cn.bing.com/
+        icon: fas fa-link
+        description: ""
+      - name: Google
+        url: https://www.google.com/
+        icon: fab fa-google
+        description: ""
       - name: 百度
         url: https://www.baidu.com/
         icon: fas fa-link
@@ -413,14 +421,14 @@ categories:
         url: https://www.itdog.cn/
         icon: fas fa-link
         description: ""
+      - name: 原神5.0版本_纳塔开放_云游戏_五星角色基尼奇、玛拉妮登场
+        url: https://start.qq.com/webgame/gamedetail/200047?ADTAG=0
+        icon: fas fa-link
+        description: ""
   - name: 网站分析
     icon: fas fa-folder
     sites:
       - name: Home - Bing Webmaster Tools
         url: https://www.bing.com/webmasters
         icon: fas fa-link
-        description: ""
-      - name: menav/config at main · swtmaxx/menav
-        url: https://github.com/swtmaxx/menav/tree/main/config
-        icon: fab fa-github
         description: ""
