@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-27T00:38:53.065Z
+# 由bookmark-processor.js生成于 2025-08-27T06:04:52.185Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -439,4 +439,8 @@ categories:
       - name: 主页 - Clarity
         url: https://clarity.microsoft.com/projects/view/t06142qizi/dashboard?date=Last%203%20days
         icon: fab fa-microsoft
+        description: ""
+      - name: Google Analytics | 首页
+        url: https://analytics.google.com/analytics/web/?pli=1&amp;authuser=1#/a366072807p502221458/reports/intelligenthome?params=_u..nav%3Dmaui
+        icon: fab fa-google
         description: ""
