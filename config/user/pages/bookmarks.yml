@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-28T01:34:16.717Z
+# 由bookmark-processor.js生成于 2025-08-28T01:34:39.148Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -446,5 +446,9 @@ categories:
         description: ""
       - name: 小红书 - 你的生活兴趣社区
         url: https://www.xiaohongshu.com/
+        icon: fas fa-link
+        description: ""
+      - name: 抖音-记录美好生活
+        url: https://www.douyin.com/
         icon: fas fa-link
         description: ""
