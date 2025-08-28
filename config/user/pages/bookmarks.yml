@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-28T02:37:29.309Z
+# 由bookmark-processor.js生成于 2025-08-28T02:38:35.533Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -437,7 +437,7 @@ categories:
         url: https://start.qq.com/webgame/gamedetail/200047?ADTAG=0
         icon: fas fa-link
         description: ""
-  - name: 新建文件夹
+  - name: 网站分析
     icon: fas fa-folder
     sites:
       - name: Home - Bing Webmaster Tools
