@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-28T01:36:13.065Z
+# 由bookmark-processor.js生成于 2025-08-28T02:37:14.719Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -27,6 +27,10 @@ categories:
         description: ""
       - name: 抖音-记录美好生活
         url: https://www.douyin.com/
+        icon: fas fa-link
+        description: ""
+      - name: 精彩推荐-快手
+        url: https://www.kuaishou.com/new-reco
         icon: fas fa-link
         description: ""
       - name: 小红书 - 你的生活兴趣社区
@@ -451,8 +455,4 @@ categories:
       - name: Google Analytics | 首页
         url: https://analytics.google.com/analytics/web/?pli=1&amp;authuser=1#/a366072807p502221458/reports/intelligenthome?params=_u..nav%3Dmaui
         icon: fab fa-google
-        description: ""
-      - name: 精彩推荐-快手
-        url: https://www.kuaishou.com/new-reco
-        icon: fas fa-link
         description: ""
