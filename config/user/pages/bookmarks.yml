@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-28T02:38:35.533Z
+# 由bookmark-processor.js生成于 2025-08-28T03:03:17.913Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -455,4 +455,8 @@ categories:
       - name: Google Analytics | 首页
         url: https://analytics.google.com/analytics/web/?pli=1&amp;authuser=1#/a366072807p502221458/reports/intelligenthome?params=_u..nav%3Dmaui
         icon: fab fa-google
+        description: ""
+      - name: 访问概况 - 51.LA网站统计V6
+        url: https://v6.51.la/report/overview?comId=3087125
+        icon: fas fa-link
         description: ""
