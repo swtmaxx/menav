@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-29T06:22:48.236Z
+# 由bookmark-processor.js生成于 2025-09-06T02:53:36.303Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -433,10 +433,6 @@ categories:
         url: https://www.itdog.cn/
         icon: fas fa-link
         description: ""
-      - name: 原神5.0版本_纳塔开放_云游戏_五星角色基尼奇、玛拉妮登场
-        url: https://start.qq.com/webgame/gamedetail/200047?ADTAG=0
-        icon: fas fa-link
-        description: ""
   - name: 网站分析
     icon: fas fa-folder
     sites:
@@ -448,8 +444,8 @@ categories:
         url: https://search.google.com/u/1/search-console?utm_source=about-page&amp;pli=1&amp;resource_id=sc-domain:swtmax.top
         icon: fab fa-google
         description: ""
-      - name: 主页 - Clarity
-        url: https://clarity.microsoft.com/projects/view/t06142qizi/dashboard?date=Last%203%20days
+      - name: Microsoft Clarity - 免费热度地图和会话录制
+        url: https://clarity.microsoft.com/projects
         icon: fab fa-microsoft
         description: ""
       - name: Google Analytics | 首页
@@ -459,8 +455,4 @@ categories:
       - name: 访问概况 - 51.LA网站统计V6
         url: https://v6.51.la/report/overview?comId=3087125
         icon: fas fa-link
-        description: ""
-      - name: Microsoft Clarity - 免费热度地图和会话录制
-        url: https://clarity.microsoft.com/projects
-        icon: fab fa-microsoft
         description: ""
