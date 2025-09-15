@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-14T02:37:44.658Z
+# 由bookmark-processor.js生成于 2025-09-15T10:37:34.395Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -338,10 +338,6 @@ categories:
         url: https://www.yunmc.vip/addons?_plugin=points_mall&amp;_controller=index&amp;_action=index
         icon: fas fa-link
         description: ""
-      - name: 用户中心 - WeMC
-        url: https://wemc.cc/user/#/
-        icon: fas fa-link
-        description: ""
       - name: 麦块联机 - 公益便捷的我的世界联机解决方案
         url: https://minekuai.com/auth/login
         icon: fas fa-link
@@ -439,6 +435,10 @@ categories:
       - name: Home - Bing Webmaster Tools
         url: https://www.bing.com/webmasters
         icon: fas fa-link
+        description: ""
+      - name: Google Search Console
+        url: https://search.google.com/u/0/search-console?resource_id=sc-domain%3Aswtmax.top
+        icon: fab fa-google
         description: ""
       - name: Microsoft Clarity - 免费热度地图和会话录制
         url: https://clarity.microsoft.com/projects
