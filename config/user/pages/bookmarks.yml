@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-15T10:37:34.395Z
+# 由bookmark-processor.js生成于 2025-09-24T11:18:58.221Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -334,10 +334,6 @@ categories:
   - name: 服务器
     icon: fas fa-folder
     sites:
-      - name: 签到中心 - 海绵科创
-        url: https://www.yunmc.vip/addons?_plugin=points_mall&amp;_controller=index&amp;_action=index
-        icon: fas fa-link
-        description: ""
       - name: 麦块联机 - 公益便捷的我的世界联机解决方案
         url: https://minekuai.com/auth/login
         icon: fas fa-link
@@ -450,5 +446,9 @@ categories:
         description: ""
       - name: 访问概况 - 51.LA网站统计V6
         url: https://v6.51.la/report/overview?comId=3087125
+        icon: fas fa-link
+        description: ""
+      - name: 宝可梦加速器
+        url: https://web1.521pokemon.com/dashboard
         icon: fas fa-link
         description: ""
