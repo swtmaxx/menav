@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-24T11:18:58.221Z
+# 由bookmark-processor.js生成于 2025-09-25T12:17:58.855Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -296,6 +296,14 @@ categories:
         url: https://wp.201116.xyz/
         icon: fas fa-link
         description: ""
+      - name: 宝可梦加速器
+        url: https://web1.521pokemon.com/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: IDC Flare - 域名、主机等信息集散地
+        url: https://idcflare.com/
+        icon: fas fa-link
+        description: ""
   - name: 我的世界
     icon: fas fa-folder
     sites:
@@ -446,9 +454,5 @@ categories:
         description: ""
       - name: 访问概况 - 51.LA网站统计V6
         url: https://v6.51.la/report/overview?comId=3087125
-        icon: fas fa-link
-        description: ""
-      - name: 宝可梦加速器
-        url: https://web1.521pokemon.com/dashboard
         icon: fas fa-link
         description: ""
