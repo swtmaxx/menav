@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-26T10:28:36.928Z
+# 由bookmark-processor.js生成于 2025-10-02T13:39:28.950Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -237,6 +237,10 @@ categories:
       - name: IDC Flare - 域名、主机等信息集散地
         url: https://idcflare.com/
         icon: fas fa-link
+        description: ""
+      - name: Google AI Studio
+        url: https://aistudio.google.com/
+        icon: fab fa-google
         description: ""
   - name: 域名
     icon: fas fa-folder
