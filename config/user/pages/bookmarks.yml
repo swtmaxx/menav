@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-03T02:31:00.290Z
+# 由bookmark-processor.js生成于 2025-10-08T02:17:22.329Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -37,8 +37,8 @@ categories:
         url: https://www.xiaohongshu.com/
         icon: fas fa-link
         description: ""
-      - name: 主页 | Microsoft 365 Copilot
-        url: https://www.microsoft365.com/?auth=1&amp;home=1
+      - name: 搜索 | M365 Copilot
+        url: https://m365.cloud.microsoft/search/?auth=1&amp;home=1&amp;origindomain=microsoft365&amp;client-request-id=c7f0141d-6e22-40bb-a174-09a1278fe492
         icon: fas fa-link
         description: ""
       - name: Telegram
@@ -118,10 +118,6 @@ categories:
         description: ""
       - name: SiliconCloud
         url: https://cloud.siliconflow.cn/sft-d32kqchxqz/models
-        icon: fas fa-link
-        description: ""
-      - name: 搜索 | M365 Copilot
-        url: https://m365.cloud.microsoft/search/?auth=1&amp;home=1&amp;origindomain=microsoft365&amp;client-request-id=c7f0141d-6e22-40bb-a174-09a1278fe492
         icon: fas fa-link
         description: ""
   - name: 云盘
@@ -462,5 +458,9 @@ categories:
         description: ""
       - name: 访问概况 - 51.LA网站统计V6
         url: https://v6.51.la/report/overview?comId=3087125
+        icon: fas fa-link
+        description: ""
+      - name: Prompt市场
+        url: https://www.jasongjz.top/#/
         icon: fas fa-link
         description: ""
