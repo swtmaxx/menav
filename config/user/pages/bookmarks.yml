@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-12T06:58:19.187Z
+# 由bookmark-processor.js生成于 2025-10-12T06:58:43.952Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -234,14 +234,6 @@ categories:
         url: https://yun.636.su/
         icon: fas fa-link
         description: ""
-      - name: LINUX DO - 新的理想型社区
-        url: https://linux.do/
-        icon: fas fa-link
-        description: ""
-      - name: IDC Flare - 域名、主机等信息集散地
-        url: https://idcflare.com/
-        icon: fas fa-link
-        description: ""
       - name: Prompt市场
         url: https://www.jasongjz.top/#/
         icon: fas fa-link
@@ -462,5 +454,20 @@ categories:
         description: ""
       - name: Vercel
         url: https://vercel.com/swtmax
+        icon: fas fa-link
+        description: ""
+      - name: 服务总览 - EdgeOne - 控制台
+        url: https://console.cloud.tencent.com/edgeone
+        icon: fas fa-link
+        description: ""
+  - name: 论坛
+    icon: fas fa-folder
+    sites:
+      - name: LINUX DO - 新的理想型社区
+        url: https://linux.do/
+        icon: fas fa-link
+        description: ""
+      - name: IDC Flare - 域名、主机等信息集散地
+        url: https://idcflare.com/
         icon: fas fa-link
         description: ""
