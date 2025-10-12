@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-12T06:57:29.952Z
+# 由bookmark-processor.js生成于 2025-10-12T06:58:19.187Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -249,10 +249,6 @@ categories:
   - name: 域名
     icon: fas fa-folder
     sites:
-      - name: 服务总览 - EdgeOne - 控制台
-        url: https://console.cloud.tencent.com/edgeone
-        icon: fas fa-link
-        description: ""
       - name: 发射台 - Spaceship
         url: https://www.spaceship.com/zh/launchpad/
         icon: fas fa-link
@@ -268,6 +264,22 @@ categories:
   - name: 机场
     icon: fas fa-folder
     sites:
+      - name: 宝可梦加速器
+        url: https://web1.521pokemon.com/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: cp.201116.xyz/86c50e3a-5b87-49dd-bd20-03c7f2735e40
+        url: https://cp.201116.xyz/86c50e3a-5b87-49dd-bd20-03c7f2735e40
+        icon: fas fa-link
+        description: ""
+      - name: wp.201116.xyz
+        url: https://wp.201116.xyz/
+        icon: fas fa-link
+        description: ""
+      - name: 仪表盘 - 良心云
+        url: https://xn--9kqz23b19z.com/#/dashboard
+        icon: fas fa-link
+        description: ""
       - name: 赔钱机场
         url: https://xn--mes358aby2apfg.com/#/dashboard
         icon: fas fa-link
@@ -280,10 +292,6 @@ categories:
         url: https://xn--4gqx1hgtfdmt.com/#/dashboard
         icon: fas fa-link
         description: ""
-      - name: 仪表盘 - 良心云
-        url: https://xn--9kqz23b19z.com/#/dashboard
-        icon: fas fa-link
-        description: ""
       - name: 69云
         url: https://69yun69.com/user
         icon: fas fa-link
@@ -294,18 +302,6 @@ categories:
         description: ""
       - name: v2ray
         url: https://9.234456.xyz/abc.html?t=638818940723284135
-        icon: fas fa-link
-        description: ""
-      - name: cp.201116.xyz/86c50e3a-5b87-49dd-bd20-03c7f2735e40
-        url: https://cp.201116.xyz/86c50e3a-5b87-49dd-bd20-03c7f2735e40
-        icon: fas fa-link
-        description: ""
-      - name: wp.201116.xyz
-        url: https://wp.201116.xyz/
-        icon: fas fa-link
-        description: ""
-      - name: 宝可梦加速器
-        url: https://web1.521pokemon.com/dashboard
         icon: fas fa-link
         description: ""
   - name: 我的世界
@@ -384,17 +380,6 @@ categories:
         url: https://email.163.com/
         icon: fas fa-link
         description: ""
-  - name: 软件
-    icon: fas fa-folder
-    sites:
-      - name: 吾爱破解 - 52pojie.cn
-        url: https://www.52pojie.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 果核剥壳 - 互联网的净土
-        url: https://www.ghxi.com/
-        icon: fas fa-link
-        description: ""
   - name: 工具
     icon: fas fa-folder
     sites:
@@ -416,6 +401,14 @@ categories:
         description: ""
       - name: 极简插件官网_Chrome插件下载_Chrome浏览器应用商店
         url: https://chrome.zzzmh.cn/index
+        icon: fas fa-link
+        description: ""
+      - name: 吾爱破解 - 52pojie.cn
+        url: https://www.52pojie.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 果核剥壳 - 互联网的净土
+        url: https://www.ghxi.com/
         icon: fas fa-link
         description: ""
   - name: ip
