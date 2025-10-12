@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-12T06:56:36.257Z
+# 由bookmark-processor.js生成于 2025-10-12T06:56:59.953Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -469,5 +469,9 @@ categories:
         description: ""
       - name: Vercel
         url: https://vercel.com/swtmax
+        icon: fas fa-link
+        description: ""
+      - name: Dashboard | Umami
+        url: https://umami.swtmax.top/dashboard
         icon: fas fa-link
         description: ""
