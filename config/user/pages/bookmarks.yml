@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-12T06:56:59.953Z
+# 由bookmark-processor.js生成于 2025-10-12T06:57:29.952Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -410,10 +410,6 @@ categories:
         url: https://cps-check.com/
         icon: fas fa-link
         description: ""
-      - name: gametame
-        url: https://gametame.com/
-        icon: fas fa-link
-        description: ""
       - name: 转换图片
         url: https://imagestool.com/zh_CN/convert-images
         icon: fas fa-link
@@ -440,6 +436,10 @@ categories:
   - name: 网站分析
     icon: fas fa-folder
     sites:
+      - name: Dashboard | Umami
+        url: https://umami.swtmax.top/dashboard
+        icon: fas fa-link
+        description: ""
       - name: Home - Bing Webmaster Tools
         url: https://www.bing.com/webmasters
         icon: fas fa-link
@@ -469,9 +469,5 @@ categories:
         description: ""
       - name: Vercel
         url: https://vercel.com/swtmax
-        icon: fas fa-link
-        description: ""
-      - name: Dashboard | Umami
-        url: https://umami.swtmax.top/dashboard
         icon: fas fa-link
         description: ""
