@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-08T02:17:22.329Z
+# 由bookmark-processor.js生成于 2025-10-12T06:56:03.168Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -242,13 +242,13 @@ categories:
         url: https://idcflare.com/
         icon: fas fa-link
         description: ""
+      - name: Prompt市场
+        url: https://www.jasongjz.top/#/
+        icon: fas fa-link
+        description: ""
   - name: 域名
     icon: fas fa-folder
     sites:
-      - name: Cloudflare | Web Performance &amp; Security
-        url: https://dash.cloudflare.com/
-        icon: fas fa-link
-        description: ""
       - name: 服务总览 - EdgeOne - 控制台
         url: https://console.cloud.tencent.com/edgeone
         icon: fas fa-link
@@ -460,7 +460,10 @@ categories:
         url: https://v6.51.la/report/overview?comId=3087125
         icon: fas fa-link
         description: ""
-      - name: Prompt市场
-        url: https://www.jasongjz.top/#/
+  - name: 网站部署
+    icon: fas fa-folder
+    sites:
+      - name: Cloudflare | Web Performance &amp; Security
+        url: https://dash.cloudflare.com/
         icon: fas fa-link
         description: ""
