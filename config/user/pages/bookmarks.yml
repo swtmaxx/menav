@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-12T06:59:30.769Z
+# 由bookmark-processor.js生成于 2025-10-12T06:59:46.120Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -299,14 +299,6 @@ categories:
         url: https://zh.minecraft.wiki/
         icon: fas fa-link
         description: ""
-      - name: Minecraft(我的世界)苦力怕论坛——我的世界中文论坛，我的世界手机版、我的世界论坛，我的世界基岩版，我的世界资源网
-        url: https://klpbbs.com/
-        icon: fas fa-link
-        description: ""
-      - name: MineBBS 我的世界中文论坛
-        url: https://www.minebbs.com/
-        icon: fas fa-link
-        description: ""
       - name: MC百科|最大的Minecraft中文MOD百科
         url: https://www.mcmod.cn/
         icon: fas fa-link
@@ -397,6 +389,10 @@ categories:
         description: ""
       - name: 果核剥壳 - 互联网的净土
         url: https://www.ghxi.com/
+        icon: fas fa-link
+        description: ""
+      - name: Prompt市场
+        url: https://www.jasongjz.top/#/
         icon: fas fa-link
         description: ""
   - name: ip
