@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-12T06:59:46.120Z
+# 由bookmark-processor.js生成于 2025-10-21T12:18:50.241Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -195,6 +195,17 @@ categories:
         url: https://api.oplist.org/
         icon: fas fa-link
         description: ""
+  - name: 论坛
+    icon: fas fa-folder
+    sites:
+      - name: LINUX DO - 新的理想型社区
+        url: https://linux.do/
+        icon: fas fa-link
+        description: ""
+      - name: IDC Flare - 域名、主机等信息集散地
+        url: https://idcflare.com/
+        icon: fas fa-link
+        description: ""
   - name: 服务器
     icon: fas fa-folder
     sites:
@@ -247,6 +258,48 @@ categories:
         description: ""
       - name: DigitalPlat Domain Dashboard
         url: https://dash.domain.digitalplat.org/panel/main?page=%2Fpanel%2Foverview
+        icon: fas fa-link
+        description: ""
+  - name: 网站分析
+    icon: fas fa-folder
+    sites:
+      - name: Dashboard | Umami
+        url: https://umami.swtmax.top/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: Home - Bing Webmaster Tools
+        url: https://www.bing.com/webmasters
+        icon: fas fa-link
+        description: ""
+      - name: Google Search Console
+        url: https://search.google.com/u/0/search-console?resource_id=sc-domain%3Aswtmax.top
+        icon: fab fa-google
+        description: ""
+      - name: Microsoft Clarity - 免费热度地图和会话录制
+        url: https://clarity.microsoft.com/projects
+        icon: fab fa-microsoft
+        description: ""
+      - name: Google Analytics | 首页
+        url: https://analytics.google.com/analytics/web/?pli=1&amp;authuser=1#/a366072807p502221458/reports/intelligenthome?params=_u..nav%3Dmaui
+        icon: fab fa-google
+        description: ""
+      - name: 访问概况 - 51.LA网站统计V6
+        url: https://v6.51.la/report/overview?comId=3087125
+        icon: fas fa-link
+        description: ""
+  - name: 网站部署
+    icon: fas fa-folder
+    sites:
+      - name: Cloudflare | Web Performance &amp; Security
+        url: https://dash.cloudflare.com/
+        icon: fas fa-link
+        description: ""
+      - name: Vercel
+        url: https://vercel.com/swtmax
+        icon: fas fa-link
+        description: ""
+      - name: 服务总览 - EdgeOne - 控制台
+        url: https://console.cloud.tencent.com/edgeone
         icon: fas fa-link
         description: ""
   - name: 机场
@@ -311,34 +364,37 @@ categories:
         url: https://www.mcappx.com/
         icon: fas fa-link
         description: ""
+  - name: 服务器
+    icon: fas fa-folder
+    sites:
+      - name: 简幻欢 - Simpfun • V4
+        url: https://simpfun.cn/console
+        icon: fas fa-link
+        description: ""
+      - name: 麦块联机 - 公益便捷的我的世界联机解决方案
+        url: https://minekuai.com/auth/login
+        icon: fas fa-link
+        description: ""
+  - name: 论坛
+    icon: fas fa-folder
+    sites:
+      - name: Minecraft(我的世界)苦力怕论坛——我的世界中文论坛，我的世界手机版、我的世界论坛，我的世界基岩版，我的世界资源网
+        url: https://klpbbs.com/
+        icon: fas fa-link
+        description: ""
+      - name: MineBBS 我的世界中文论坛
+        url: https://www.minebbs.com/
+        icon: fas fa-link
+        description: ""
+  - name: 工具
+    icon: fas fa-folder
+    sites:
       - name: Chunk Base - Minecraft Apps, Mods and Tutorials
         url: https://www.chunkbase.com/
         icon: fas fa-link
         description: ""
       - name: Minecraft 渐变文字生成器
         url: https://mcg.tuanzi.ink/
-        icon: fas fa-link
-        description: ""
-  - name: 服务器
-    icon: fas fa-folder
-    sites:
-      - name: 麦块联机 - 公益便捷的我的世界联机解决方案
-        url: https://minekuai.com/auth/login
-        icon: fas fa-link
-        description: ""
-      - name: 简幻欢 - Simpfun • V4
-        url: https://simpfun.cn/console
-        icon: fas fa-link
-        description: ""
-  - name: 内网穿透
-    icon: fas fa-folder
-    sites:
-      - name: 控制台 | ME Frp 5.0 管理面板
-        url: https://www.mefrp.com/dashboard/home
-        icon: fas fa-link
-        description: ""
-      - name: ChmlFrp | Panel v2 - 免费,高速,稳定,不限流量的端口映射工具。
-        url: https://panel.chmlfrp.cn/
         icon: fas fa-link
         description: ""
   - name: 邮箱
@@ -395,6 +451,17 @@ categories:
         url: https://www.jasongjz.top/#/
         icon: fas fa-link
         description: ""
+  - name: 内网穿透
+    icon: fas fa-folder
+    sites:
+      - name: 控制台 | ME Frp 5.0 管理面板
+        url: https://www.mefrp.com/dashboard/home
+        icon: fas fa-link
+        description: ""
+      - name: ChmlFrp | Panel v2 - 免费,高速,稳定,不限流量的端口映射工具。
+        url: https://panel.chmlfrp.cn/
+        icon: fas fa-link
+        description: ""
   - name: ip
     icon: fas fa-folder
     sites:
@@ -410,56 +477,7 @@ categories:
         url: https://www.itdog.cn/
         icon: fas fa-link
         description: ""
-  - name: 网站分析
-    icon: fas fa-folder
-    sites:
-      - name: Dashboard | Umami
-        url: https://umami.swtmax.top/dashboard
-        icon: fas fa-link
-        description: ""
-      - name: Home - Bing Webmaster Tools
-        url: https://www.bing.com/webmasters
-        icon: fas fa-link
-        description: ""
-      - name: Google Search Console
-        url: https://search.google.com/u/0/search-console?resource_id=sc-domain%3Aswtmax.top
-        icon: fab fa-google
-        description: ""
-      - name: Microsoft Clarity - 免费热度地图和会话录制
-        url: https://clarity.microsoft.com/projects
-        icon: fab fa-microsoft
-        description: ""
-      - name: Google Analytics | 首页
-        url: https://analytics.google.com/analytics/web/?pli=1&amp;authuser=1#/a366072807p502221458/reports/intelligenthome?params=_u..nav%3Dmaui
-        icon: fab fa-google
-        description: ""
-      - name: 访问概况 - 51.LA网站统计V6
-        url: https://v6.51.la/report/overview?comId=3087125
-        icon: fas fa-link
-        description: ""
-  - name: 网站部署
-    icon: fas fa-folder
-    sites:
-      - name: Cloudflare | Web Performance &amp; Security
-        url: https://dash.cloudflare.com/
-        icon: fas fa-link
-        description: ""
-      - name: Vercel
-        url: https://vercel.com/swtmax
-        icon: fas fa-link
-        description: ""
-      - name: 服务总览 - EdgeOne - 控制台
-        url: https://console.cloud.tencent.com/edgeone
-        icon: fas fa-link
-        description: ""
-  - name: 论坛
-    icon: fas fa-folder
-    sites:
-      - name: LINUX DO - 新的理想型社区
-        url: https://linux.do/
-        icon: fas fa-link
-        description: ""
-      - name: IDC Flare - 域名、主机等信息集散地
-        url: https://idcflare.com/
+      - name: 仪表盘 | 风萧萧兮公益机场
+        url: https://gucci.weyolo.com/#/dashboard
         icon: fas fa-link
         description: ""
