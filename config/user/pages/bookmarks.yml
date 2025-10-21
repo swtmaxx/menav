@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-21T12:18:50.241Z
+# 由bookmark-processor.js生成于 2025-10-21T12:23:25.978Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -345,6 +345,14 @@ categories:
         url: https://9.234456.xyz/abc.html?t=638818940723284135
         icon: fas fa-link
         description: ""
+      - name: 仪表盘 | 风萧萧兮公益机场
+        url: https://gucci.weyolo.com/#/dashboard
+        icon: fas fa-link
+        description: ""
+      - name: Websites | Umami
+        url: https://cloud.umami.is/analytics/us/websites
+        icon: fas fa-link
+        description: ""
   - name: 我的世界
     icon: fas fa-folder
     sites:
@@ -475,9 +483,5 @@ categories:
         description: ""
       - name: ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想
         url: https://www.itdog.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 仪表盘 | 风萧萧兮公益机场
-        url: https://gucci.weyolo.com/#/dashboard
         icon: fas fa-link
         description: ""
